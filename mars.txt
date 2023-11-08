@@ -4,4 +4,4 @@ But the Mummy will appreciate the lack of humidity
 I decide to consider Venus as a Base
 An ill-considered change
 changes for checkout
-This line added to Wolfman's copy
+We removed the conflict on this line
